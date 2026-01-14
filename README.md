@@ -1,0 +1,3 @@
+# compose-layouts-demos
+
+This repo contains all of the production code used for the component demonstration pages, which show what each of my components in my [compose-layouts](https://github.com/BDuong0/compose-layouts) component library look like. These demonstration pages are used in the documentation website for the [compose-layouts](https://github.com/BDuong0/compose-layouts) component library.
